@@ -1,0 +1,67 @@
+2018-09-06 23:38:29 [main] INFO  HelloWorld:11 - Hop ??
+2018-09-06 23:39:05 [main] INFO  App:11 - Hop ??
+2018-09-06 23:42:34 [main] INFO  App:11 - Hop ??
+2018-09-06 23:47:08 [main] INFO  App:13 - Hop ??
+2018-09-06 23:47:08 [main] INFO  Operateur:12 - Hop ??
+2018-09-06 23:47:47 [main] INFO  App:13 - Initializing ..
+2018-09-06 23:47:47 [main] INFO  Operateur:12 - Initializing ..
+2018-09-06 23:53:16 [main] INFO  App:13 - Initializing ..
+2018-09-06 23:53:16 [main] INFO  Operateur:12 - Initializing ..
+2018-09-06 23:53:16 [main] INFO  App:15 - Vrai
+2018-09-06 23:53:30 [main] INFO  App:13 - Initializing ..
+2018-09-06 23:53:30 [main] INFO  Operateur:12 - Initializing ..
+2018-09-06 23:53:30 [main] INFO  App:15 - Faux
+2018-09-06 23:54:42 [main] INFO  App:13 - Initializing ..
+2018-09-06 23:54:42 [main] INFO  Operateur:12 - Initializing ..
+2018-09-06 23:54:42 [main] INFO  App:15 - Faux
+2018-09-06 23:55:12 [main] INFO  App:13 - Initializing ..
+2018-09-06 23:55:12 [main] INFO  Operateur:12 - Initializing ..
+2018-09-06 23:55:12 [main] INFO  App:15 - Faux
+2018-09-06 23:55:12 [main] INFO  Operateur:12 - Initializing ..
+2018-09-06 23:55:48 [main] INFO  App:13 - Initializing ..
+2018-09-06 23:55:48 [main] INFO  Operateur:12 - Initializing ..
+2018-09-06 23:55:48 [main] INFO  App:15 - Faux
+2018-09-06 23:57:15 [main] INFO  App:13 - Initializing ..
+2018-09-06 23:57:15 [main] INFO  Operateur:12 - Initializing ..
+2018-09-06 23:57:15 [main] INFO  App:15 - Faux
+2018-09-06 23:57:15 [main] INFO  Operateur:26 - Constructeur par default ..
+2018-09-06 23:57:32 [main] INFO  App:13 - Initializing ..
+2018-09-06 23:57:32 [main] INFO  Operateur:12 - Initializing ..
+2018-09-06 23:57:32 [main] INFO  App:15 - Faux
+2018-09-06 23:57:44 [main] INFO  App:13 - Initializing ..
+2018-09-06 23:57:44 [main] INFO  Operateur:12 - Initializing ..
+2018-09-06 23:57:44 [main] INFO  App:15 - Faux
+2018-09-06 23:57:44 [main] INFO  Operateur:26 - Constructeur par default ..
+2018-09-06 23:57:51 [main] INFO  App:13 - Initializing ..
+2018-09-06 23:57:51 [main] INFO  Operateur:12 - Initializing ..
+2018-09-06 23:57:52 [main] INFO  App:15 - Faux
+2018-09-06 23:57:52 [main] INFO  Operateur:26 - Constructeur par default ..
+2018-09-06 23:57:52 [main] INFO  Operateur:12 - Initializing ..
+2018-09-07 00:13:40 [main] INFO  Operateur:12 - Initializing ..
+2018-09-07 00:15:28 [main] INFO  Operateur:12 - Initializing ..
+2018-09-07 00:16:03 [main] INFO  Operateur:12 - Initializing ..
+2018-09-07 00:16:03 [main] INFO  Operateur:12 - Initializing ..
+2018-09-07 00:16:13 [main] INFO  Operateur:12 - Initializing ..
+2018-09-07 00:16:13 [main] INFO  Operateur:12 - Initializing ..
+2018-09-07 00:16:19 [main] INFO  Operateur:12 - Initializing ..
+2018-09-07 00:16:19 [main] INFO  Operateur:12 - Initializing ..
+2018-09-07 00:16:25 [main] INFO  Operateur:12 - Initializing ..
+2018-09-07 00:16:25 [main] INFO  Operateur:12 - Initializing ..
+2018-09-07 00:17:51 [main] INFO  Operateur:12 - Initializing ..
+2018-09-07 00:17:51 [main] INFO  Operateur:12 - Initializing ..
+2018-09-07 00:42:44 [main] INFO  App:13 - Initializing ..
+2018-09-07 00:42:44 [main] INFO  Operateur:10 - Initializing ..
+2018-09-07 00:42:44 [main] INFO  App:15 - Faux
+2018-09-07 00:42:44 [main] INFO  Operateur:24 - Constructeur par default ..
+2018-09-07 00:42:44 [main] INFO  Operateur:10 - Initializing ..
+2018-09-07 00:46:34 [main] INFO  App:14 - Initializing ..
+2018-09-07 00:46:34 [main] INFO  Operateur:10 - Initializing ..
+2018-09-07 00:46:34 [main] INFO  App:16 - Faux
+2018-09-07 00:49:34 [main] INFO  App:14 - Initializing ..
+2018-09-07 00:49:34 [main] INFO  Operateur:10 - Initializing ..
+2018-09-07 00:49:34 [main] INFO  App:16 - Faux
+2018-09-07 00:49:34 [main] INFO  Chat:13 - Initializing ..
+2018-09-07 00:50:09 [main] INFO  App:14 - Initializing ..
+2018-09-07 00:50:09 [main] INFO  Operateur:10 - Initializing ..
+2018-09-07 00:50:09 [main] INFO  App:16 - Faux
+2018-09-07 00:50:09 [main] INFO  Chat:13 - Initializing ..0
