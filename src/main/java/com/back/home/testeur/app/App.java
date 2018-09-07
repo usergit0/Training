@@ -19,6 +19,8 @@ public class App {
 		//operateur.testCondition();
 		
 		Chat.afficherNbPattesDeAnimal();
+		
+		//todo verif git
 	}
 
 }
